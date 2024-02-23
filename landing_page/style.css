@@ -1,0 +1,17 @@
+.header {
+    display:flex;
+
+}
+
+.links {
+    display: flex;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
